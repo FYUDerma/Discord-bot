@@ -48,4 +48,4 @@ async def check_and_delete_channel(channel):
             break
         await asyncio.sleep(5)
 
-bot.run("MTI4ODgzNzkwNDQ0MDc1ODMxNA.Gyh1Nb.L7YbtvsekGIBFHJQfNcTIvp--L_kNKLtuH54RU")
+bot.run("Token")
